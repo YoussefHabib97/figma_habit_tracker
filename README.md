@@ -2,9 +2,9 @@
 
 A simple Habit Tracker app made using:
 
-Flutter 3.35.7 [https://storage.googleapis.com/flutter_infra_release/releases/stable/windows/flutter_windows_3.35.7-stable.zip]
+[Flutter 3.35.7](https://storage.googleapis.com/flutter_infra_release/releases/stable/windows/flutter_windows_3.35.7-stable.zip)
 
-Figma design: Habit tracker (Community) [https://www.figma.com/design/l221QtqRhr4AgBKlR4QqI3/Habit-tracker--Community-?node-id=1-2&t=EOqgeOIzerC0gFUA-0]
+Figma design: [Habit tracker (Community)](https://www.figma.com/design/l221QtqRhr4AgBKlR4QqI3/Habit-tracker--Community-?node-id=1-2&t=EOqgeOIzerC0gFUA-0)
 
 ## Getting Started
 
